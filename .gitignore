@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+data/processed/
+data/smoke/
+outputs/
+*.pt
+*.pth
+*.ckpt
+fashion-dataset/
