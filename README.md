@@ -2,6 +2,9 @@
 
 This project classifies fashion e-commerce products by combining product images and textual metadata. It uses the local Kaggle Fashion Product Images dataset in `fashion-dataset/`, with a ResNet-18 image encoder, a BERT text encoder, and a fused PyTorch classifier over the top 10 product `articleType` classes.
 
+# Dataset
+https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+
 ## Project Structure
 
 - `src/preprocess.py` prepares image paths, text fields, label mappings, and stratified splits.
