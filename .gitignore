@@ -5,7 +5,6 @@ __pycache__/
 venv/
 data/processed/
 data/smoke/
-outputs/
 *.pt
 *.pth
 *.ckpt
